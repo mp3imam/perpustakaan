@@ -1,0 +1,1 @@
+[18-Jul-2017 09:25:54 Asia/Jakarta] PHP Warning:  imagepng(../../caches/image/_slims_img_cache_200_x_200.892857143_person.png): failed to open stream: No such file or directory in /home/yodhaano/public_html/jjc-dev/lib/minigalnano/createthumb.php on line 118

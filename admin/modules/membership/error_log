@@ -1,0 +1,1 @@
+[18-Jul-2017 23:21:33 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`iix05.whmbox.com' did not match expected CN=`smtp.gmail.com' in /home/yodhaano/public_html/jjc-dev/lib/phpmailer/class.smtp.php on line 197
